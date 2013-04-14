@@ -1,0 +1,8 @@
+name: dddnagoya
+description: DDD Nagoya
+
+#dependencies:
+#  unittest: any
+
+dev_dependencies:
+  unittest: any
